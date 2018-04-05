@@ -1,0 +1,228 @@
+{
+        "cards": [{
+                "id": 0,
+                "name": "Advance to Go",
+                "description": "Advance to Go",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 1,
+                "name": "Collect $200",
+                "description": "Collect $200",
+                "effect": {
+                        "gain": 200,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 2,
+                "name": "Pay $50",
+                "description": "Pay $50",
+                "effect": {
+                        "gain": 0,
+                        "loss": 50,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 3,
+                "name": "Get $50",
+                "description": "Get $50",
+                "effect": {
+                        "gain": 50,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 4,
+                "name": "Get Out of Academic Integrity Hearing",
+                "description": "Get Out of Academic Integrity Hearing",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "true"
+                }
+        },{
+                "id": 5,
+                "name": "Go To Academic Integrity Hearing",
+                "description": "Go To Academic Integrity Hearing",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 10,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 6,
+                "name": "Collect $50 from each player",
+                "description": "Collect $50 from each player",
+                "effect": {
+                        "gain": 50,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "true",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 7,
+                "name": "Collect $100",
+                "description": "Collect $100",
+                "effect": {
+                        "gain": 100,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 8,
+                "name": "Collect $20",
+                "description": "Collect $20",
+                "effect": {
+                        "gain": 20,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 9,
+                "name": "Collect $10 from each player",
+                "description": "Collect $10 from each player",
+                "effect": {
+                        "gain": 10,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "true",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 10,
+                "name": "Collect $100",
+                "description": "Collect $100",
+                "effect": {
+                        "gain": 100,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 11,
+                "name": "Pay $100",
+                "description": "Pay $100",
+                "effect": {
+                        "gain": 0,
+                        "loss": 100,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 12,
+                "name": "Pay $150",
+                "description": "Pay $150",
+                "effect": {
+                        "gain": 0,
+                        "loss": 150,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 13,
+                "name": "Receive $25",
+                "description": "Receive $25",
+                "effect": {
+                        "gain": 25,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 14,
+                "name": "Pay Street Repairs",
+                "description": "Pay Street Repairs: $40 per house, $115 per hotel",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 40,
+                        "hotel_repair": 115,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 15,
+                "name": "Collect $10",
+                "description": "Collect $10",
+                "effect": {
+                        "gain": 10,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        }
+        ]
+}

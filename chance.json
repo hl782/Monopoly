@@ -1,0 +1,228 @@
+{
+        "cards": [{
+                "id": 0,
+                "name": "Advance to Go",
+                "description": "Advance to Go",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 1,
+                "name": "Advance to tile Collegetown Bagels",
+                "description": "Advance to tile Collegetown Bagels",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 24,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 2,
+                "name": "Advance to Marthas",
+                "description": "Advance to Marthas",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 11,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 3,
+                "name": "Advance to nearest utility",
+                "description": "Advance to nearest utility",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 60,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 4,
+                "name": "Advance to nearest quadrangle",
+                "description": "Advance to nearest quadrangle (and pay double?)",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 50,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 5,
+                "name": "Bank pays you $50",
+                "description": "Gain $50",
+                "effect": {
+                        "gain": 50,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 6,
+                "name": "Get Out of Academic Integrity Violation",
+                "description": "Get Out of Academic Integrity Violation",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "true"
+                }
+        },{
+                "id": 7,
+                "name": "Professor Clarkson's Award & Punishment",
+                "description": "Professor Clarkson's Award & Punishment",
+                "effect": {
+                        "gain": 750,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 10,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 8,
+                "name": "Go To Academic Integrity Hearing",
+                "description": "Go To Academic Integrity Hearing",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 10,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 9,
+                "name": "Repair all properties",
+                "description": "Repair all properties: $25 per house, $100 per hotel",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 25,
+                        "hotel_repair": 100,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 10,
+                "name": "Pay poor tax of $15",
+                "description": "Pay $15",
+                "effect": {
+                        "gain": 0,
+                        "loss": 15,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 11,
+                "name": "Go to the Arts Quad",
+                "description": "Go to the Arts Quad",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 5,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 12,
+                "name": "Go to Gates Hall",
+                "description": "Go to Gates Hall",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 39,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 13,
+                "name": "Pay each player $50",
+                "description": "Pay each player $50",
+                "effect": {
+                        "gain": 0,
+                        "loss": 50,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "true",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 14,
+                "name": "Collect $150",
+                "description": "Collect $150",
+                "effect": {
+                        "gain": 150,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        },{
+                "id": 15,
+                "name": "Collect $100",
+                "description": "Collect $100",
+                "effect": {
+                        "gain": 100,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "false",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "false"
+                }
+        }
+        ]
+}

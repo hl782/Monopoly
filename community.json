@@ -1,0 +1,33 @@
+{
+        "cards": [{
+                "id": 0,
+                "name": "",
+                "description": "",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "true",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "true"
+                }
+        },{
+                "id": 1,
+                "name": "",
+                "description": "",
+                "effect": {
+                        "gain": 0,
+                        "loss": 0,
+                        "house_repair": 0,
+                        "hotel_repair": 0,
+                        "multiplier": "true",
+                        "location": 0,
+                        "move_x": 0,
+                        "jail": "true"
+                }
+        }
+        ]
+}
+
